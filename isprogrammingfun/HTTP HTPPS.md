@@ -1,6 +1,5 @@
 ## HTTP HTTPS 차이
 
----
 
 ### HTTP (Hyper Text Transfer Protocol)
 
