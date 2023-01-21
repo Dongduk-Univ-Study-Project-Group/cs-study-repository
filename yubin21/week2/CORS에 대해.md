@@ -58,3 +58,8 @@ Spring 에서는 아래의 3가지 방식으로 처리할 수 있다.
 1.CorsFilter를 생성해 직접 response에 header를 넣어주기  
 2.Controller에서 @CrossOrigin annotation 추가하기  
 3.WebMvcConfigurer를 이용해서 처리하기
+
+## 참고자료
+[Yunseok's Dev Blog - CORS란 무엇인가?](https://hannut91.github.io/blogs/infra/cors)
+
+[CORS란 무엇인가?](https://escapefromcoding.tistory.com/724)
