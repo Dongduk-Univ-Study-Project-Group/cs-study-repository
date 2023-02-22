@@ -1,3 +1,13 @@
+## 요약 정리 누락 현황 ❌
+
+| Github ID | 주차 |
+| --- | --- |
+| JaeHyeonSim | 2주차, 3주차 |
+| ddyearn | - |
+| isprogrammingfun | 3주차 |
+| yu-heejin | - |
+| yubin21 | - |
+
 ## **Rule**
 - 해당 레포지토리를 clone 혹은 fork 해주세요.
 - 자신의 깃허브 아이디로 된 폴더를 생성합니다.
